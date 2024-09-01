@@ -18,7 +18,7 @@ def Buying_Something():
         else:
             print(conclusion + "His son only bought 1 bottle of milk")
     else:
-        print(conclusion + "Not buying anything")
+        print(conclusion + "not buying anything")
 
 # Running Program
 Buying_Something()
