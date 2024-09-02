@@ -33,6 +33,7 @@ def Stock_Opname_A():
         "Sugar": 1
     }
 
+
     # Minimum stock threshold
     min_stock = 5
 
