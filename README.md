@@ -15,3 +15,7 @@ You are a store owner who sells various items. Every day, you need to check your
 You have a list of items in your store with their respective stock quantities.
 If the stock of an item is below 5, you need to reorder the item.
 The program should display the name of the item and the current stock amount, as well as whether it needs to be reordered or not.
+
+## Case-3 : Looping using While
+
+The questions are the same as Case 2, but with a different approach. Python looping function using while
